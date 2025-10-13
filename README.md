@@ -1,7 +1,9 @@
 # SharkJack
-DIY Ethernet arduino tool
+DIY Ethernet arduino tool or rpi4
 
 - In progress ...
+
+- rpi4 code in progress with eth0 scanning
 
 | Module name | ENC28J60  | WT32-ETH01 |
 | ---------------- | --------- | ---- |
